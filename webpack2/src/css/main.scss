@@ -1,0 +1,15 @@
+body{
+  background: #ddd;
+  div{
+    width: 200px;
+    height: 100px;
+    border: 10px solid blue;
+    cursor:pointer;
+  }
+  .d1{
+    background: url("../images/Pin.svg") 100% 100% no-repeat;
+  }
+  .d2{
+    background: url("../images/rrt.jpg") 100% 100% no-repeat;
+  }
+}

@@ -1,0 +1,7 @@
+body {
+  background: #ddd; }
+  body div {
+    width: 100px;
+    height: 100px;
+    border: 10px solid blue;
+    cursor: pointer; }
